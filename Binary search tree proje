@@ -1,0 +1,58 @@
+#Binary search tree proje
+
+Başlangıç Durumu:
+
+Root: 7
+5 Ekleniyor:
+
+Root'un solunda: 5
+1 Ekleniyor:
+
+Root'un solunda: 5
+5'in solunda: 1
+8 Ekleniyor:
+
+Root'un sağına: 8
+5'in sağına: -
+3 Ekleniyor:
+
+Root'un solunda: 5
+5'in solunda: 1
+1'in sağına: 3
+6 Ekleniyor:
+
+Root'un solunda: 5
+5'in solunda: 1
+1'in sağına: 3
+5'in sağına: 6
+0 Ekleniyor:
+
+Root'un solunda: 5
+5'in solunda: 1
+1'in solunda: 0
+1'in sağına: 3
+5'in sağına: 6
+9 Ekleniyor:
+
+Root'un sağına: 8
+8'in sağına: 9
+4 Ekleniyor:
+
+Root'un solunda: 5
+5'in solunda: 1
+1'in solunda: 0
+1'in sağına: 3
+5'in sağına: 4
+4'ün solunda: -
+4'ün sağına: -
+2 Ekleniyor:
+
+Root'un solunda: 5
+5'in solunda: 1
+1'in solunda: 0
+1'in sağına: 3
+3'ün solunda: 2
+5'in sağına: 4
+4'ün solunda: -
+4'ün sağına: -
+Bu şekilde, verilen diziyi Binary Search Tree yapısına dönüştürmüş olduk.
